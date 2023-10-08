@@ -44,7 +44,7 @@ fn main() {
             }
             Ordering::Greater => {
                 println!(
-                    "That was to {}{}{}",
+                    "That was too {}{}{}",
                     "high".red(),
                     '.',
                     " Try again!".blue()
